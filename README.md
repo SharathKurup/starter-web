@@ -8,3 +8,5 @@ Sample website with plenty of files for demos
 
 ## Deployment
 New section for testing
+
+Testing GIT Repository
